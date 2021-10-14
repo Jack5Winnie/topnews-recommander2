@@ -1,0 +1,140 @@
+- api_key:
+  - 112c9b2a21544785ac573f0221cff7ed
+  - 3ce897ffb4bc49bcb5ca9dd364e9a79e
+  - 4cd6e413c31d4ab99f623f6aaedf42bb
+  - afd69464ff3b4c1797ebc028ebb1bfb5
+  - b15eab96a2514381bbe527deaf3722ea
+  - ca3e3bf276f44abbbf5e78402fe42202
+- sources:
+  - the-wall-street-journal
+  - fortune
+  - financial-post
+  - australian-financial-review
+  - hacker-news
+  - wired
+  - crypto-coins-news
+- keywords:
+  - (NOT (election OR cyber OR (network)))
+  - (us AND fed)
+  - (eurodollar)
+  - etf
+  - bond
+  - nasdaq
+  - semiconductor
+  - libor
+  - (book AND ratio)
+  - (information AND (security OR communication OR technology))
+  - (ted AND spread)
+  - (stake AND in)
+  - (petro AND chemical)
+  - ((stock OR shares) AND (worth OR value))
+  - ((join OR added OR inclusion) AND (index OR msci))
+  - ((share OR stock) AND (split OR ipo))
+  - (electric AND (vehicle OR car))
+  - ((solar AND power) OR energy)
+  - currency
+  - drone
+  - ((aerospace OR military OR defense) AND industry)
+  - (exchange AND dollars)
+  - (economic AND indicators)
+- KeyWord_Posit:
+  - esg
+  - bond
+  - treasur
+  - yield
+  - s&p
+  - nyse
+  - dow
+  - gdp
+  - repo
+  - ppp
+  - earning
+  - revenue
+  - nikkei
+  - capital
+  - eps
+  - p/b
+  - p/e
+  - bank
+  - roa
+  - stock
+  - ipo
+  - split
+  - dividend
+  - fed
+  - etf
+  - nasdaq
+  - brexit
+  - tsmc
+  - wistron
+  - foxcon
+  - iphone
+  - telsa
+  - aramco
+  - 5g
+  - ai
+  - iot
+  - blockchain
+  - quantum
+  - semiconductor
+  - join
+  - inclusion
+  - added
+  - index
+  - e-commerce
+  - msci
+  - oil
+  - brent
+  - opec
+  - imf
+  - electric
+  - vehicle
+  - car
+  - solar
+  - exchange
+  - dollars
+  - pound
+  - economic
+  - indicators
+  - crash
+  - bdi
+  - cpi
+  - ppi
+- KeyWord_Negat:
+  - elect
+  - testimony
+  - soccer
+  - cyber
+  - sport
+  - vote
+  - voting
+  - vot
+  - kick
+  - covid
+  - Corona
+  - Coronavirus
+  - nurs
+  - attacks
+  - directx
+  - biden
+  - race
+  - battery
+  - racing
+  - career
+  - offers
+  - campus
+  - eviction
+  - college
+  - sex
+  - breakthrough
+  - pandemic
+  - writer
+  - ban
+  - republican
+  - veteran
+  - uaw
+- sort_by: popularity
+- language: en
+- page_size: 100
+- hoursAgo: 24
+- TNewsSize: 20

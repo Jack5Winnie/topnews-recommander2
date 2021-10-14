@@ -1,0 +1,22 @@
+{
+    "alphavantage": "70B9FFD1VZHLCLD8", 
+    "quandl": "WMszbg3xQRdxZfqn92yC",
+    "OANDA": "ef5562864427ca067c72bcb8319f3dea-4cbd9b99486c5a33e83a157c22461a8f",  // ACCOUNT_ID: Jack5Winnie
+    "Tiingo": "26ba9cb63a7c55655927d6ea84367da0589bce5f",
+    "IEX Cloud": "pk_e54348aea62c4650b2ab68b647d5cfcf",     // 帳號: 53fa65dc8172f54a18c785cada1248d9 
+    "stocknews": "osoppzg1ei8xw4azkhplv33luezlmnep2q3zlomu",
+    "newsapi": "112c9b2a21544785ac573f0221cff7ed"
+    "pythonanywhere": "65756d55ae3e2bd4ab8ac4e36945b3d60a8fe819",   // username = 'jack5'
+    "x-rapidapi-key": "aed208e650msheec01dcb93a3a8fp124f0fjsnee24ecca9ec3",
+    "x-rapidapi-host": "openapi-provisioning.p.rapidapi.com",
+    "plotly": "FodQuZrxXA0M57Xp1Zqh",       // Username = "Jack5Winnie",
+    "Google Cloud Platform": "AIzaSyA-MX6wxKdyqQDhv4mZXtUqskQD9pULxoc",
+    "Gist": "ce0dfbb210c0e37747a8d18984b811b5",
+    "Github Personal access tokens": "4d61834fd4d5d449ee6a95e2d0393bec73663d8b",
+    "GURU_TOKEN": "a5cdf60ba0561ee6111f9d62358d40ce:57b97d949a7c1159eba00a624614c3a4",
+    //  http://www.gurufocus.com/guru/list
+    //  Eric-CC.Liu@nanshan.com.tw
+    //  "NSID1qaz2wsx"
+    //  您的每月API使用量：（每個區域每月最多20000個請求）
+    //  對於所有未在美國交易的股票，請在調用api時將 {symbol?} 替換為 {exchange:symbol?}。
+}

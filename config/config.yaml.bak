@@ -1,0 +1,41 @@
+- api_key:
+  - 4cd6e413c31d4ab99f623f6aaedf42bb
+  - 3ce897ffb4bc49bcb5ca9dd364e9a79e
+  - 112c9b2a21544785ac573f0221cff7ed
+  - afd69464ff3b4c1797ebc028ebb1bfb5
+  - b15eab96a2514381bbe527deaf3722ea
+  - ca3e3bf276f44abbbf5e78402fe42202
+
+- sources:
+  - the-wall-street-journal
+  - fortune
+  - financial-post
+  - australian-financial-review
+  - crypto-coins-news
+
+- keywords:
+  - (NOT (election OR cyber OR (network)))
+  - (us AND fed)
+  - (eurodollar)
+  - etf
+  - bond
+  - nasdaq
+  - semiconductor
+  - libor
+  - (book AND ratio)
+  - (ted AND spread)
+  - (stake AND in)
+  - ((stock OR shares) AND (worth OR value))
+  - ((join OR added OR inclusion) AND (index OR msci))
+  - ((share OR stock) AND (split OR ipo))
+  - (electric AND (vehicle OR car))
+  - ((solar AND power) OR energy)
+  - currency
+  - (exchange AND dollars)
+  - (economic AND indicators)
+
+- sort_by: popularity
+- language: en
+- page_size: 100
+- hoursAgo: 24
+- TNewsSize: 20

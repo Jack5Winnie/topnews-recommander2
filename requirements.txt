@@ -1,0 +1,14 @@
+Flask
+Flask_Bootstrap
+newsapi-python
+FinNews
+PyYAML
+pandas
+datetime
+statistics
+dateutils
+regex
+lxml
+py3socket
+Py3Collections
+gunicorn
